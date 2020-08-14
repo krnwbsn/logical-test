@@ -10,5 +10,3 @@ function solution(message, K) {
   }
   return resultCrop.join(" ");
 }
-
-console.log(solution("cocacola", 5))
